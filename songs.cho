@@ -1,0 +1,59 @@
+# iconv songs.cho -tlatin9 > songs.latin9.ps
+# chordii -i -a songs.latin9.ps -o songs.ps
+
+{title:Les passantes}
+{st:Musique : Georges Brassens, paroles : Antoine Pol}
+{comment: En arpège}
+{columns: 2}
+
+[Am]
+[F]Je veux dédier ce po[E7]ème,
+À [A7]toutes les femmes qu'on [D]aime,
+Pen[Am]dant quelques [G7]instants sec[C]rets, [E]
+À [F]celles qu'on connait à [E7]peine,
+Qu'un des[A7]tin différent en[D]traine,
+Et [Am]qu'on ne retr[C]ouve jam[Am]ais.
+
+À celle qu'on voit apparaitre,
+Une seconde à sa fenêtre,
+Et qui, preste, s'évanouit,
+Mais dont la svelte silhouette,
+Est si gracieuse et fluette,
+Qu'on en demeure épanoui.
+
+À la compagne de voyage,
+Dont les yeux, charmant paysage,
+Font paraitre court le chemin ;
+Qu'on est seul, peut-être à comprendre,
+Et qu'on laisse pourtant descendre,
+Sans avoir effleuré la main.
+
+{column_break}
+
+À celles qui sont déjà prises,
+Et qui vivant des heures grises,
+Près d'un être trop différent,
+Vous ont, inutile folie,
+Laissé voir la mélancolie,
+D'un avenir désespérant.
+
+Chères images aperçues,
+Espérances d'un jour déçues,
+Vous serez dans l'oubli demain,
+Pour peu que le bonheur survienne,
+Il est rare qu'on se souvienne,
+Des épisodes du chemin.
+
+Mais si l'on a manqué sa vie,
+On songe avec un peu d'envie,
+À tous ces bonheurs entrevus,
+Aux baisers qu'on n'osa pas prendre,
+Aux cœurs qui doivent vous attendre,
+Aux yeux qu'on n'a jamais revus.
+
+Alors, aux soirs de lassitude,
+Tout en peuplant sa solitude,
+Des fantômes du souvenir,
+On pleure les lèvres absentes,
+De toutes ces belles passantes,
+Que l'on n'a pas su retenir.
