@@ -2,7 +2,7 @@
 # chordii -i -a songs.latin9.ps -o songs.ps
 
 {title:Les passantes}
-{st:Musique : Georges Brassens, paroles : Antoine Pol}
+{st:Musique : Georges Brassens, paroles : Antoine Pol}
 {comment: En arpège}
 {columns: 2}
 
@@ -68,7 +68,7 @@ Que l'on n'a pas su retenir.
 
 Y'a Pa[C]ris, la capi[Dm]tale, qui re[G7]nifle son trou de [C]bals,
 Intra-[C]muros c'est brill[Dm]ant, dehors c'est [G7]pour les pay[C]sans.
-D'ailleurs [C]s'il n'en restait [Dm]qu'une, ce se[G7]rait sûr'ment celle-[C]là :
+D'ailleurs [C]s'il n'en restait [Dm]qu'une, ce se[G7]rait sûr'ment celle-[C]là :
 Qu'une au[Am]ssi con que la [Dm]lune et préten[G7]tieuse, comme il se [C]doit.
 {start_of_chorus}
 Mais [G7]Paris, ça reste en [C]France, les Français [G7]restent des Fran[C]çais,
@@ -77,7 +77,7 @@ Les che[Dm]villes en évi[G7]dence, le nom[G7]bril insatis[C]fait !
 
 À Rennes où il fait bon vivre, j'y ai vu - pardonnez-moi,
 Des masses de foules ivres, des seringues plein les bras,
-Un soir, une chose amusante, sur la route, croyez-moi :
+Un soir, une chose amusante, sur la route, croyez-moi :
 La police qui plaisante d'un cadavre sur le toit.
 {start_of_chorus}
 Mais Rennes, ça reste en France, les Français restent des Français,
@@ -86,7 +86,7 @@ Des reins en convalescence, des poumons dans le regret.
 
 Puis y'a Bordeaux la bourgeoise avec son grand cru classé
 Que l'on déguste dans l'extase, dans les grands lieux new-yorkais
-Qui indique à sa mémoire ce qui est bon, ce qui est mauvais :
+Qui indique à sa mémoire ce qui est bon, ce qui est mauvais :
 Si pour Papon, c'est un trou noir, le Girondin c'est un succès.
 {start_of_chorus}
 Mais Bordeaux, ça reste en France, les Français restent des Français
@@ -96,7 +96,7 @@ Des trouillards de gauche en transe ou des cons de droite muets.
 À Toulouse, la ville rose, peut-être sont-ils un peu chauvins ?
 Quand ils jacassent pas du rose, ils te parlent des Toulousains,
 Ils ont un patois bien sûr, qu'ils utilisent parfois,
-Pour écrire sur les murs d'une usine : « Plus jamais ça ».
+Pour écrire sur les murs d'une usine : « Plus jamais ça ».
 {start_of_chorus}
 Mais Toulouse, ça reste en France, les Français restent des Français,
 Des canards qui l'été dansent sur des rythmes « afro-laid ».
@@ -105,7 +105,7 @@ Des canards qui l'été dansent sur des rythmes « afro-laid ».
 Puis il y a Marseille, celle qui a son port si charmant,
 Sa Méditerranée belle, sa sardine et ses harengs.
 Comme un tout petit village, un hameau ensoleillé,
-Qui n'a qu'un désavantage : d'être rempli de Marseillais !
+Qui n'a qu'un désavantage : d'être rempli de Marseillais !
 {start_of_chorus}
 Mais Marseille, ça reste en France, les Français restent des Français,
 Des grandes gueules à qui l'on pense, quand on veut avoir la paix.
@@ -149,7 +149,7 @@ La grande [Am]race des chau[Dm]vins, juste à [G7]côté des fa[C]chos,
 Ben, moi qui suis né en France dans un bled incognito
 Je ne comprends pas la démence, je ne vois pas les idéaux
 De ceux qui pensent la naissance, comme une attache, un ghetto
-Pardonnez-moi cette offense et traduisez en ces mots :
+Pardonnez-moi cette offense et traduisez en ces mots :
 
 Issu de la poussière, je m'en retourne à la poussière
 Issu de la planète terre, je m'y promène sans frontière !
@@ -300,4 +300,83 @@ Moi je voudrais tous les voir crever,
 On peut pas dire que ça soit bandant
 Si le roi des cons perdait son trône,
 Y'aurait cinquante millions de prétendants
+{end_of_chorus}
+
+{new_song}
+{title:Cayenne}
+{st:Texte : Aristide Bruand, musique : Parabellum}
+{textsize: 15}
+{columns: 2}
+
+
+[Em]Je me souviens encore
+[B]De ma première [Em]femme
+[Em]Elle s'appelait Nina
+[B]Une vraie putain dans [Em]l'âme
+[C]La reine des mo[G]rues
+[C]De la rue Saint-De[G]nis
+[C]Elle faisait le ta[G]pin
+[G]Près d'la rue d'[B]Rivo[Em]li
+
+{start_of_chorus}
+[Em]Mort aux vaches
+Mort aux condés
+[B]Vivent les enfants d'Cayenne
+À bas ceux [G]d'la [B]sûr'[Em]té
+{end_of_chorus}
+
+Elle aguichait l'client
+Quand mon destin d'bagnard
+Vint frapper à sa porte
+Sous forme d'un richard
+Il lui cracha dessus
+Rempli de son dédain
+Lui mit la main au cul
+Et la traita d'putain
+
+Moi qui étais son homme
+Et pas un' peau de vache
+Acquis dans ma jeunesse
+Les princip's d'un apache
+Sortis mon 6.35
+Et d'une balle en plein coeur
+Je l'étendis raid' mort
+Et fut serré sur l'heure
+
+{column_break}
+
+Aussitôt arrêté
+Fut mené à Cayenne
+C'est là que j'ai purgé
+Les forfaits de ma peine
+Jeunesse d'aujourd'hui
+Ne faites plus le con
+Car pour un' seule connerie
+On vous jette en prison
+
+Si je viens à mourir
+Je veux que l'on m'enterre
+Dans un tout p'tit cim'tière
+Près de la porte Saint-Martin
+Quat'cents putains à poil
+Viendront crier très haut
+C'est le roi des Julots
+Que l'on mène au tombeau !
+
+{comment:non chanté par Parabellum}
+Sur la tombe on lira
+Cette glorieuse phrase
+Écrit' par des truands
+D'une très haute classe
+Honneur à la putain
+Qui m'a donné sa main
+Si je n'étais pas mort
+Je te bais'rais encore
+
+{comment:ajouté par Les Amis D'ta Femme}
+{start_of_chorus}
+Pas de grâce
+Pas de pitié
+Pour tout' cett' band' de lâches
+Et ces band's d'enculés
 {end_of_chorus}
